@@ -10,9 +10,9 @@ root = tk.Tk()
 root.withdraw()
 
 
-APP_ID = "26723553"
-APT_KEY = "gx8BtoVV3RfGdtKKZrU2EMpu"
-SECRET_KEY = "1sKCGNQuo5SVVah0Q88RV9tetBAKYe3r"
+APP_ID = "Your APP_ID" 
+APT_KEY = "Your APT_KEY"
+SECRET_KEY = "Your SECRET_KEY"
 
 
 client = AipImageProcess(APP_ID, APT_KEY, SECRET_KEY)
